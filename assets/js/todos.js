@@ -17,5 +17,5 @@ $("input[type='text']").keypress(function(event) {
 });
 
 $(".fa-plus").click(function() {
-    $("input").toggleClass("hide");
+    $("input[type='text']").fadeToggle();
 })
