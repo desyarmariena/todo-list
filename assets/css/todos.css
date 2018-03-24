@@ -20,10 +20,6 @@ body {
     text-decoration: line-through;
 }
 
-.hide {
-    display: none;
-}
-
 h1 {
     background-color: #2980b9;
     color: white;
